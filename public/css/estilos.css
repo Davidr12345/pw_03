@@ -1,0 +1,23 @@
+.carouselExampleSlidesOnly {
+    background-image: url('http://lorempixel.com/1000/500/abstract/');
+}
+@import url('https://fonts.googleapis.com/css?family=Fjalla+One|Work+Sans:400,700');
+
+.h1, .h2, .h3, .h4, .h5, .h6 {
+    color: crimson;
+    font-family: 'Fjalla One', sans-serif;
+}
+body 
+{
+    font-family: 'Work Sans', sans-serif;
+    color: purple;
+}
+.resaltar {
+	color:red;
+}
+.contenedor {
+  
+    height: 100% ;
+    width: 100%;
+
+}
